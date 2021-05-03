@@ -1,0 +1,12 @@
+body{
+    align-items: center;
+    background-color: khaki;
+}
+.wrapper{
+    border: 1px solid black;
+    
+}
+.checkout{
+    border: 1px solid black;
+    width: 30%;
+}
